@@ -15,7 +15,7 @@
 using namespace std;
 int F, S, G, U, D;
 bool check[1000001];
-int main_5014()
+int main()
 {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);

@@ -112,4 +112,6 @@ int main()
 		}
 	}
 	cout << mindist - 1;
+
+	return 0;
 }

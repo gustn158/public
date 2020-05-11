@@ -9,7 +9,7 @@
 
 고슴도치는 물이 찰 예정인 칸으로 이동할 수 없다. 즉, 다음 시간에 물이 찰 예정인 칸으로 고슴도치는 이동할 수 없다. 이동할 수 있으면 고슴도치가 물에 빠지기 때문이다.
 
-*/
+
 
 #include <iostream>
 #include <algorithm>
@@ -105,16 +105,10 @@ int main()
 			}
 		}
 		cnt++;
-		/*for (int i = 0; i < r; i++)
-		{
-			for (int j = 0; j < c; j++)
-			{
-				cout << map[i][j];
-			}
-			cout << "\n";
-		}*/
+
 		if (cnt >= r * c)
 			break;
 	}
 	cout << "KAKTUS";
 }
+*/

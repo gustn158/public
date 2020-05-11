@@ -101,3 +101,4 @@ int main()
 	}
 	cout << mindist - 1;
 }
+//¼öÁ¤

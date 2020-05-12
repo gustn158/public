@@ -36,7 +36,7 @@ bool Bfs(int x, int y)
 	while (!q.empty())
 	{
 		pair <int, int> cp = q.front();
-	
+
 		q.pop();
 
 		for (int i = 0; i < 4; i++)
@@ -119,7 +119,7 @@ int main()
 		{
 			for (int j = 0; j < 6; j++)
 			{
-				
+
 				if (!check[i][j] && map[i][j] != '.')
 				{
 					memset(check, false, sizeof(check));

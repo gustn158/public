@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="[BOJ]10937.cpp" />
+    <ClCompile Include="[BOJ]11559.cpp" />
     <ClCompile Include="[BOJ]1234.cpp" />
     <ClCompile Include="[BOJ]2146.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

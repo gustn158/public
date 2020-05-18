@@ -60,5 +60,11 @@
     <ClCompile Include="[BOJ]3948.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[BOJ]14925.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[BOJ]14923.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
